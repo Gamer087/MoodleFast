@@ -1,0 +1,58 @@
+◆ ------- {✬} ------- ◆
+
+✪APRENDE A USAR EL BOT✪
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
+/ayuda - Comando para ver un tutorial sobre el bot.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/admin - Comando para añadir acceso de administrador del bot a un usuario.
+Ejemplo:
+/admin TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/add - Comando para añadir acceso de usuario al bot.
+Ejemplo:
+/add TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/ban - Comando para banear/quitar acceso completamente sobre el bot a un usuario.
+Ejemplo:
+/ban TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/info - Comando para ver la configuración actual.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/acc - Comando para configurar Usuario y Contraseña.
+Ejemplo: /acc tuguerx tuGue.X
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/host - Comando para establecer el Host del moodle o la nube.
+Ejemplo:
+/host https://eduvirtual.uho.edu.cu/
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/token - Comando para mostrar el token de la cuenta moodle actual.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/zips - Comando para establecer el tamaño maximo por archivos.
+Este comando sirve cuando su nube por ejemplo es de 50 mb por archivo y usted quiere subir algo de 200 MiB pues el Bot parte el archivo en partes de 50 MiB y las sube.
+Se usa pasando un número detrás del comando
+Ejemplo:
+/zips 50
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/repo - Comando para configurar el Repo ID del host
+Se usa pasando el id detrás del comando, el ID va del número 2 al 6.
+Ejemplo:
+/repo 5
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/nube - Comando para cambiar de modo de nube (moodle o cloud) predeterminada mente está en modo moodle.
+Ejemplo:
+/nube moodle
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/dir - Comando para establecer a que carpeta de la nube se subira.
+Se usa pasando el nombre del directorio detrás del comando.
+Ejemplo:
+/dir descargas
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+ /descargar - Comando para que el bot comienze a descargar y subir el enlace que le des.
+ Ejemplo:
+ /descargar *enlace*
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+ /login - Comando para revisar su cuenta.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+ /shorturl - Comando para acotar los enlaces.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+ ✬Estos son los comandos esenciales para poder usar el bot correctamente✬

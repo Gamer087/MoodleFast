@@ -1,0 +1,21 @@
+
+{
+  "name": "☁️MoodleFast 1.0⚡️",
+  "description": "MoodleFast 1.0 listo y preparado para subir contenido a las nubes.",
+  "env": {
+    "administrador": {
+      "description": "Administrador del bot",
+      "value": "TuguerX"
+    },
+    "bot_token": {
+      "description": "Token del bot",
+      "value": "5507609777:AAExnxMfIqw3nUd26lBm0q4ZQwe0NHlgqq8"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}
+
